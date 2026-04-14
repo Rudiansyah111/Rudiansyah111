@@ -19,6 +19,7 @@
     <a href="mailto:widiasyakira@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
+    ![](https://komarev.com/ghpvc/?username=rudiansyah111)
 </div>
 
 ---
