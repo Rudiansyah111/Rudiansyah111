@@ -10,7 +10,7 @@
 
 <h1 align="center">👋 Hi, I’m @Rudiansyah111</h1>
 
-<h3 align="center">PHP fullstack</h3>
+<h3 align="center">fullstack developer</h3>
 
 <div align="center">
     <a href="https://t.me/ryudji111" target="_blank">
