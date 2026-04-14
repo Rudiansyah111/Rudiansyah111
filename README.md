@@ -79,7 +79,7 @@ I focus not only on writing code, but also on understanding how systems work and
 
 <div align="center">
     <img
-        src="https://leetcard.jacoblin.cool/Rudiansyah111?theme=transparent"
+        src="https://leetcard.jacoblin.cool/rudiansyah111?theme=catppuccinMocha&font=Encode%20Sans%20Condensed"
         width="500"
     />
 </div>
