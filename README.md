@@ -54,6 +54,7 @@ I focus not only on writing code, but also on understanding how systems work and
 - Php,js (main language)
 - Laravel
 - native PHP
+- astro
 
 ### Databases
 - PostgreSQL
