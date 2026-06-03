@@ -55,6 +55,7 @@ I focus not only on writing code, but also on understanding how systems work and
 - Laravel
 - native PHP
 - astro
+- vue
 
 ### Databases
 - PostgreSQL
